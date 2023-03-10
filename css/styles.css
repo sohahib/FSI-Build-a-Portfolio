@@ -1,0 +1,15 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
+    background-size: cover;
+    color:aliceblue
+
+}   
+img{
+    height: 400px;
+    border: solid skyblue 2px;
+    border-radius: 20px;
+}
+h1, h2{
+    text-align: center;
+}
