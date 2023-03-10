@@ -1,9 +1,9 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    background-image: url(/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
+    background-image: url(/images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
     background-size: cover;
-    color:aliceblue
-
+    color:aliceblue;
+    cursor:crosshair;
 }   
 img{
     height: 400px;
